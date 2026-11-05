@@ -1,4 +1,5 @@
 // Spread Operator
+// Spread Operator (...) -> Expands the elements of an array or the properties of an object.
 
 // Copying an array
 const numbers = [10, 20, 30];
