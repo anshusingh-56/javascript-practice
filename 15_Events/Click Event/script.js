@@ -5,5 +5,4 @@ button.addEventListener("click", function () {
 
     heading.textContent = "Button Clicked";
     heading.style.color = "green";
-    button.style.backgroundColor = "yellow";
 });
