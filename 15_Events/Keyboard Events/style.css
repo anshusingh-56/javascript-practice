@@ -1,0 +1,29 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    background: #eff6ff;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+}
+
+#box {
+    height: 150px;
+    width: 220px;
+    margin: 25px auto;
+    background: lightblue;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+p {
+    color: #555;
+}
