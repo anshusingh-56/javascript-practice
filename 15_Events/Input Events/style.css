@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ecfdf5;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.container {
+    max-width: 450px;
+    margin: auto;
+    padding: 35;
+    border-radius: 15px;
+    background: white;
+}
+
+input {
+    width: 85%;
+    padding: 12px;
+    border: 1px solid #aaa;
+    font-size: 15px;
+}
+
+input:focus {
+    outline: 2px solid #10b981;
+}
+
+#result {
+    color: #047857;
+    font-weight: bold;
+    margin-top: 20px;
+}
