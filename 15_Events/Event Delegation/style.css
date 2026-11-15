@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #fefce8;
+    padding: 40px 20px;
+}
+
+.container {
+    max-width: 450px;
+    margin: auto;
+    padding: 30px;
+    background: white;
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: #854d0e;
+}
+
+p {
+    text-align: center;
+    color: #666;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    padding: 14px;
+    margin: 10px 0;
+    background: #fef9c3;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+li:hover {
+    background: #fde68a;
+}
