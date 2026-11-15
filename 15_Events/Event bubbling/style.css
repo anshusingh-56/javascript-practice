@@ -1,0 +1,34 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f9ff;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.container {
+    max-width: 550px;
+    margin: auto;
+}
+
+#parent {
+    background: #bae6fd;
+    padding: 40px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+#child {
+    display: block;
+    margin: 20px auto 0;
+    padding: 12px 25px;
+    background: #0369a1;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+p {
+    color: #555;
+}
