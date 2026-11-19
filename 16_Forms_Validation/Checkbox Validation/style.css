@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #fff7ed;
+    display: flex;
+    justify-content: center;
+    padding: 60px 20px;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    width: 350px;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 25px 0;
+    color: #444;
+}
+
+button {
+    padding: 12px 25px;
+    background: #ea580c;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#message {
+    font-weight: bold;
+}
